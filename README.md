@@ -26,7 +26,7 @@ Moreover, a dataset consisting of images representing four weather categories—
 
 ## Approach
 
-The task involved developing three thought experiments using a combination of different ML algorithms to devise a model that ClimateWins could implement to reach its goals.
+The task involved developing three thought experiments using a combination of different ML algorithms to devise a model that ClimateWins could implement to reach its goals. The results were compiled and presented in a final presentation.
 
 ## Project Folder Structure
 
