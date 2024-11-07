@@ -38,4 +38,4 @@ The project files are organized into the following folders:
   ------ OMITTED FROM THE REPOSITORY FOR SPACE-SAVING PURPOSES ------
 - **03 Scripts #2:** contains Jupyter notebooks documenting the current phase of the project.
 - **04 Analysis/Visualizations:** holds relevant visuals.
-- **05 Sent to Client:** contains pdf presentations to ClimateWins stakeholders.
+- **05 Sent to Client:** contains pdf presentations and reports to ClimateWins stakeholders.
